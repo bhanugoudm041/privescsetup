@@ -5,7 +5,7 @@ Privesc course tools
 
 Visit below url and download the zip file
 
-url: https://mega.nz/file/lUhwEJ5I#ob8X4d6pR_ctSUpR8xKG_b94I4DPhHhExYGp1ZzmuDk
+url: https://github.com/bhanugoudm041/privescsetup/blob/main/Tools.zip
 
 # Note: Donot donwload these files on to your main operating system (Use it in VMs only)
 
